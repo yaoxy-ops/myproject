@@ -9,6 +9,6 @@
   调用sklearn：pls文件夹里的pls.py <br> 
 ### 3 神经网络<br> 
   数据集：通过分析生物质燃料的LIBS（激光诱导击穿光谱）光谱全谱数据分析生物质燃料的灰分。见BPNN文件夹。  <br> 
-  
+  理论推导：https://www.bilibili.com/video/BV1e7411Z7jW?from=search&seid=7743258818077809951 https://www.bilibili.com/video/BV16x411V7Qg?from=search&seid=301355712932063057 <br> 
   调用sklearn多层感知机方法：shenjing.py <br> 
-  tensorflow下keras搭建神经网络：shenjing.py <br> 
+  tensorflow下keras搭建神经网络：keras.py <br> 
